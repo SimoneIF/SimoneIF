@@ -1,12 +1,9 @@
-## Hi there 👋
+## Olá pessoal 👋
 
 <!--
 **SimoneIF/SimoneIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,7 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 🌱 Atualmente estou aprendendo: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
-[<div class="tenor-gif-embed" data-postid="22904866" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-typing-gif-22904866">Cat Typing GIF</a>from <a href="https://tenor.com/search/cat+typing-gifs">Cat Typing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>](https://tenor.com/pt-BR/view/cat-typing-gif-22904866)
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/(https://tenor.com/pt-BR/view/cat-gif-19863752))
+
+
+<div class="tenor-gif-embed" data-postid="19863752" data-share-method="host" data-aspect-ratio="1.57635" data-width="100%"><a href="https://tenor.com/view/cat-gif-19863752">Cat GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
