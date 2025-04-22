@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning 
+🌱 Atualmente estou aprendendo: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
-<div class="tenor-gif-embed" data-postid="22904866" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-typing-gif-22904866">Cat Typing GIF</a>from <a href="https://tenor.com/search/cat+typing-gifs">Cat Typing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+[<div class="tenor-gif-embed" data-postid="22904866" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-typing-gif-22904866">Cat Typing GIF</a>from <a href="https://tenor.com/search/cat+typing-gifs">Cat Typing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>](https://tenor.com/pt-BR/view/cat-typing-gif-22904866)
