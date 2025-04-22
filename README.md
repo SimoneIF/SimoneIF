@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/(https://tenor.com/pt-BR/view/cat-gif-19863752))
-
-
-<div class="tenor-gif-embed" data-postid="19863752" data-share-method="host" data-aspect-ratio="1.57635" data-width="100%"><a href="https://tenor.com/view/cat-gif-19863752">Cat GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
